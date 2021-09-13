@@ -25,7 +25,7 @@ const localeDataMap = {
   'es-419': esData,
   'fr': frData,
   'zh-cn': zhData,
-  'eu': ruData,
+  'ru': ruData,
 };
 
 export default localeDataMap;
